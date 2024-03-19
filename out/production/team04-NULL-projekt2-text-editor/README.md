@@ -32,10 +32,6 @@ Set max line number to 20 \
 Print the formatted text \
 `> Print`
 
-## Class diagram
-The class diagram can be found
-[here](TextEditor_Klassendiagramm_PM1.pdf)
-
 ## Contributors
 [Tim Müller](https://github.zhaw.ch/muellti3) \
 [Raphael Meierhans](https://github.zhaw.ch/meierr06)\
